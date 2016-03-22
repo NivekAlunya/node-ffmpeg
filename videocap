@@ -1,0 +1,2 @@
+#!/bin/sh -x
+node /Users/kevinlaunay/source/nodejs/video-app-v2/index.js $*
